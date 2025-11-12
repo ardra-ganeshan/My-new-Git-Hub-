@@ -1,2 +1,2 @@
 # My-new-Git-Hub-
-##New GitHub account 
+## New GitHub account 
